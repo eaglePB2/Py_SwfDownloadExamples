@@ -20,6 +20,8 @@
 不需要，有python和手就行
 
 ## 效果預覽
+![alt text](https://i.imgur.com/ote1Xkd.png)
+![alt text](https://i.imgur.com/Il5afCD.png)
 总计花时：`16小时`  
 介于大量的档案的关系，所以时间真的会拖很长。  
 你会得到大约有13876个swf档案，其中有30%全部都是3D龙效果，癲癇症患者还请注意
